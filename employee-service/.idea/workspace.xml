@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ceef4dc-fb56-4c4b-8ec5-0ef8b2d539e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/microserviceemployee/employeeservice/EmployeeServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/microserviceemployee/employeeservice/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/microserviceemployee/employeeservice/controller/MessageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/microserviceemployee/employeeservice/dto/ApiDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/microserviceemployee/employeeservice/dto/DeptDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/microserviceemployee/employeeservice/dto/EmpDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/microserviceemployee/employeeservice/dto/OrgDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/microserviceemployee/employeeservice/entity/EmpJpa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/microserviceemployee/employeeservice/mapper/AutoEmpMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/microserviceemployee/employeeservice/mapper/EmpMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/microserviceemployee/employeeservice/repository/EmpRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/microserviceemployee/employeeservice/service/DeptApiIClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/microserviceemployee/employeeservice/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/microserviceemployee/employeeservice/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/microserviceemployee/employeeservice/service/OrgApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/microserviceemployee/employeeservice/EmpJpaServiceApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2U46Qt7VW8fXxaY8A1hraF3OVqP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/prnv/Desktop/git-projects/employee-service&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;7bac586f64dc9eb14e03b3eb3fa91aef&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.microserviceemployee.employeeservice" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EmployeeServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="employee-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microserviceemployee.employeeservice.EmployeeServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ceef4dc-fb56-4c4b-8ec5-0ef8b2d539e0" name="Changes" comment="" />
+      <created>1692186494482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692186494482</updated>
+      <workItem from="1692186495542" duration="2613000" />
+      <workItem from="1692248368122" duration="979000" />
+      <workItem from="1692301860157" duration="246000" />
+      <workItem from="1692384059672" duration="2113000" />
+      <workItem from="1692422717153" duration="10732000" />
+      <workItem from="1692473946952" duration="1654000" />
+      <workItem from="1692520299836" duration="2297000" />
+      <workItem from="1692932386961" duration="4727000" />
+      <workItem from="1693029340267" duration="8531000" />
+      <workItem from="1693199141435" duration="598000" />
+      <workItem from="1693214083872" duration="598000" />
+      <workItem from="1693386322018" duration="7191000" />
+      <workItem from="1693658071436" duration="3555000" />
+      <workItem from="1693705301061" duration="10399000" />
+      <workItem from="1693849976767" duration="1110000" />
+      <workItem from="1693884125426" duration="6237000" />
+      <workItem from="1693909910544" duration="1232000" />
+      <workItem from="1693911221569" duration="457000" />
+      <workItem from="1693911689712" duration="6239000" />
+      <workItem from="1693922037154" duration="1047000" />
+      <workItem from="1693923105947" duration="38000" />
+      <workItem from="1693923147928" duration="1026000" />
+      <workItem from="1693931361196" duration="1311000" />
+      <workItem from="1693976133910" duration="5992000" />
+      <workItem from="1694030135027" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
